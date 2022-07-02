@@ -1,0 +1,16 @@
+:root {
+    --navbg: #0ae6e6;
+    --logo-bg-mobile: #089c9c;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: 0;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    /* border: 1px solid red; */
+}
