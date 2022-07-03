@@ -28,6 +28,7 @@ header {
     line-height: 1em;
     border: 1px solid white;
     padding: .2em .5em;
+    cursor:pointer;
 }
 
 .logo {
